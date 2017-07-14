@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\alexa\github\scalajs\darc\client\target\scala-2.11\client-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 447762 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 475045 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 938238 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 537369 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 8915 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1208395 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1762241 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 238578 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 15895 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 255899 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 1164 -- invalidated: 1189[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 4942[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 771698 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 192 -- trees read: 1489[0m
